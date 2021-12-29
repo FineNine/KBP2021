@@ -1,0 +1,919 @@
+,Unnamed: 0,Name,Bowl,Pick_user,Spread_user,Score,Pick_actual,Spread_actual
+0,0,Carl J,Bahamas Bowl,Toledo (Favorite),5.0,0,Middle Tennessee State,7
+1,1,Todd G,Bahamas Bowl,Toledo (Favorite),7.0,0,Middle Tennessee State,7
+2,2,Jack S,Bahamas Bowl,Toledo (Favorite),11.0,0,Middle Tennessee State,7
+3,3,Ethan H,Bahamas Bowl,Toledo (Favorite),3.0,0,Middle Tennessee State,7
+4,4,Wisky,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+5,5,Colm,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+6,6,Stanley,Bahamas Bowl,Middle Tennessee State,12.0,6,Middle Tennessee State,7
+7,7,Craig Boogie,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+8,8,Tristan,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+9,9,Pete F (expert),Bahamas Bowl,Toledo (Favorite),17.0,0,Middle Tennessee State,7
+10,10,Cole W,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+11,11,Monica C,Bahamas Bowl,Toledo (Favorite),3.0,0,Middle Tennessee State,7
+12,12,Striker,Bahamas Bowl,Toledo (Favorite),52.0,0,Middle Tennessee State,7
+13,13,Cab,Bahamas Bowl,Toledo (Favorite),13.0,0,Middle Tennessee State,7
+14,14,Peter C,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+15,15,Aiden M,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+16,16,Kendall,Bahamas Bowl,Toledo (Favorite),12.0,0,Middle Tennessee State,7
+17,17,Brendan W,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+18,18,Emerson O,Bahamas Bowl,Toledo (Favorite),9.0,0,Middle Tennessee State,7
+19,19,Spencer,Bahamas Bowl,Middle Tennessee State,10.0,8,Middle Tennessee State,7
+20,20,Dirk P,Bahamas Bowl,Toledo (Favorite),9.0,0,Middle Tennessee State,7
+21,21,John W,Bahamas Bowl,Toledo (Favorite),8.0,0,Middle Tennessee State,7
+22,22,Kevin J,Bahamas Bowl,Toledo (Favorite),7.0,0,Middle Tennessee State,7
+23,23,Dax,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+24,24,Renee B,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+25,25,Suz B,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+26,26,Tia B,Bahamas Bowl,Middle Tennessee State,21.0,5,Middle Tennessee State,7
+27,27,David P,Bahamas Bowl,Toledo (Favorite),13.0,0,Middle Tennessee State,7
+28,28,Kelsey P,Bahamas Bowl,Toledo (Favorite),7.0,0,Middle Tennessee State,7
+29,29,Zinn,Bahamas Bowl,Middle Tennessee State,2.0,6,Middle Tennessee State,7
+30,30,Larry W,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+31,31,Joe Canada,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+32,32,Paul R,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+33,33,Roitman,Bahamas Bowl,Middle Tennessee State,4.0,8,Middle Tennessee State,7
+34,34,Sandra S,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+35,35,Paul P,Bahamas Bowl,Toledo (Favorite),17.0,0,Middle Tennessee State,7
+36,36,Grapefruit,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+37,37,Thomas N,Bahamas Bowl,Toledo (Favorite),7.0,0,Middle Tennessee State,7
+38,38,No Mercy,Bahamas Bowl,Toledo (Favorite),9.0,0,Middle Tennessee State,7
+39,39,Cora P,Bahamas Bowl,Toledo (Favorite),13.0,0,Middle Tennessee State,7
+40,40,Courtney K,Bahamas Bowl,Toledo (Favorite),3.0,0,Middle Tennessee State,7
+41,41,Josh T,Bahamas Bowl,Toledo (Favorite),8.0,0,Middle Tennessee State,7
+42,42,Eric K,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+43,43,Mike M,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+44,44,The Captain,Bahamas Bowl,Toledo (Favorite),12.0,0,Middle Tennessee State,7
+45,45,Dank,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+46,46,Alvin T,Bahamas Bowl,Toledo (Favorite),12.0,0,Middle Tennessee State,7
+47,47,Ty K,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+48,48,Binky,Bahamas Bowl,Toledo (Favorite),12.0,0,Middle Tennessee State,7
+49,49,Connie K,Bahamas Bowl,Toledo (Favorite),10.0,0,Middle Tennessee State,7
+50,50,Maggie R,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+51,51,Fred K,Bahamas Bowl,Toledo (Favorite),14.0,0,Middle Tennessee State,7
+52,52,Jane S,Bahamas Bowl,Toledo (Favorite),13.0,0,Middle Tennessee State,7
+53,53,Tiny Tim ,Bahamas Bowl,Middle Tennessee State,11.0,6,Middle Tennessee State,7
+54,54,Carl J,Cure Bowl,Coastal Carolina (Favorite),3.0,8,Coastal Carolina (Favorite),6
+55,55,Todd G,Cure Bowl,Coastal Carolina (Favorite),17.0,5,Coastal Carolina (Favorite),6
+56,56,Jack S,Cure Bowl,Coastal Carolina (Favorite),18.0,5,Coastal Carolina (Favorite),6
+57,57,Ethan H,Cure Bowl,Northern Illinois,6.0,0,Coastal Carolina (Favorite),6
+58,58,Wisky,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+59,59,Colm,Cure Bowl,Coastal Carolina (Favorite),7.0,8,Coastal Carolina (Favorite),6
+60,60,Stanley,Cure Bowl,Coastal Carolina (Favorite),7.0,8,Coastal Carolina (Favorite),6
+61,61,Craig Boogie,Cure Bowl,Coastal Carolina (Favorite),4.0,8,Coastal Carolina (Favorite),6
+62,62,Tristan,Cure Bowl,Coastal Carolina (Favorite),6.0,10,Coastal Carolina (Favorite),6
+63,63,Pete F (expert),Cure Bowl,Coastal Carolina (Favorite),8.0,8,Coastal Carolina (Favorite),6
+64,64,Cole W,Cure Bowl,Coastal Carolina (Favorite),6.0,10,Coastal Carolina (Favorite),6
+65,65,Monica C,Cure Bowl,Coastal Carolina (Favorite),3.0,8,Coastal Carolina (Favorite),6
+66,66,Striker,Cure Bowl,Coastal Carolina (Favorite),60.0,5,Coastal Carolina (Favorite),6
+67,67,Cab,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+68,68,Peter C,Cure Bowl,Coastal Carolina (Favorite),7.0,8,Coastal Carolina (Favorite),6
+69,69,Aiden M,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+70,70,Kendall,Cure Bowl,Coastal Carolina (Favorite),31.0,5,Coastal Carolina (Favorite),6
+71,71,Brendan W,Cure Bowl,Coastal Carolina (Favorite),21.0,5,Coastal Carolina (Favorite),6
+72,72,Emerson O,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+73,73,Spencer,Cure Bowl,Coastal Carolina (Favorite),7.0,8,Coastal Carolina (Favorite),6
+74,74,Dirk P,Cure Bowl,Coastal Carolina (Favorite),5.0,8,Coastal Carolina (Favorite),6
+75,75,John W,Cure Bowl,Northern Illinois,7.0,0,Coastal Carolina (Favorite),6
+76,76,Kevin J,Cure Bowl,Northern Illinois,3.0,0,Coastal Carolina (Favorite),6
+77,77,Dax,Cure Bowl,Coastal Carolina (Favorite),4.0,8,Coastal Carolina (Favorite),6
+78,78,Renee B,Cure Bowl,Coastal Carolina (Favorite),9.0,8,Coastal Carolina (Favorite),6
+79,79,Suz B,Cure Bowl,Coastal Carolina (Favorite),17.0,5,Coastal Carolina (Favorite),6
+80,80,Tia B,Cure Bowl,Coastal Carolina (Favorite),14.0,5,Coastal Carolina (Favorite),6
+81,81,David P,Cure Bowl,Coastal Carolina (Favorite),13.0,6,Coastal Carolina (Favorite),6
+82,82,Kelsey P,Cure Bowl,Coastal Carolina (Favorite),7.0,8,Coastal Carolina (Favorite),6
+83,83,Zinn,Cure Bowl,Coastal Carolina (Favorite),13.0,6,Coastal Carolina (Favorite),6
+84,84,Larry W,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+85,85,Joe Canada,Cure Bowl,Coastal Carolina (Favorite),2.0,6,Coastal Carolina (Favorite),6
+86,86,Paul R,Cure Bowl,Northern Illinois,10.0,0,Coastal Carolina (Favorite),6
+87,87,Roitman,Cure Bowl,Northern Illinois,4.0,0,Coastal Carolina (Favorite),6
+88,88,Sandra S,Cure Bowl,Northern Illinois,12.0,0,Coastal Carolina (Favorite),6
+89,89,Paul P,Cure Bowl,Coastal Carolina (Favorite),14.0,5,Coastal Carolina (Favorite),6
+90,90,Grapefruit,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+91,91,Thomas N,Cure Bowl,Coastal Carolina (Favorite),14.0,5,Coastal Carolina (Favorite),6
+92,92,No Mercy,Cure Bowl,Coastal Carolina (Favorite),5.0,8,Coastal Carolina (Favorite),6
+93,93,Cora P,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+94,94,Courtney K,Cure Bowl,Coastal Carolina (Favorite),3.0,8,Coastal Carolina (Favorite),6
+95,95,Josh T,Cure Bowl,Northern Illinois,4.0,0,Coastal Carolina (Favorite),6
+96,96,Eric K,Cure Bowl,Coastal Carolina (Favorite),4.0,8,Coastal Carolina (Favorite),6
+97,97,Mike M,Cure Bowl,Coastal Carolina (Favorite),7.0,8,Coastal Carolina (Favorite),6
+98,98,The Captain,Cure Bowl,Coastal Carolina (Favorite),8.0,8,Coastal Carolina (Favorite),6
+99,99,Dank,Cure Bowl,Northern Illinois,8.0,0,Coastal Carolina (Favorite),6
+100,100,Alvin T,Cure Bowl,Coastal Carolina (Favorite),15.0,5,Coastal Carolina (Favorite),6
+101,101,Ty K,Cure Bowl,Coastal Carolina (Favorite),4.0,8,Coastal Carolina (Favorite),6
+102,102,Binky,Cure Bowl,Northern Illinois,5.0,0,Coastal Carolina (Favorite),6
+103,103,Connie K,Cure Bowl,Coastal Carolina (Favorite),6.0,10,Coastal Carolina (Favorite),6
+104,104,Maggie R,Cure Bowl,Coastal Carolina (Favorite),21.0,5,Coastal Carolina (Favorite),6
+105,105,Fred K,Cure Bowl,Coastal Carolina (Favorite),10.0,6,Coastal Carolina (Favorite),6
+106,106,Jane S,Cure Bowl,Coastal Carolina (Favorite),13.0,6,Coastal Carolina (Favorite),6
+107,107,Tiny Tim ,Cure Bowl,Coastal Carolina (Favorite),2.0,6,Coastal Carolina (Favorite),6
+108,108,Carl J,Boca Raton Bowl,App State (Favorite),14.0,0,Western Kentucky,21
+109,109,Todd G,Boca Raton Bowl,App State (Favorite),24.0,0,Western Kentucky,21
+110,110,Jack S,Boca Raton Bowl,App State (Favorite),18.0,0,Western Kentucky,21
+111,111,Ethan H,Boca Raton Bowl,App State (Favorite),3.0,0,Western Kentucky,21
+112,112,Wisky,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+113,113,Colm,Boca Raton Bowl,Western Kentucky,3.0,5,Western Kentucky,21
+114,114,Stanley,Boca Raton Bowl,App State (Favorite),5.0,0,Western Kentucky,21
+115,115,Craig Boogie,Boca Raton Bowl,Western Kentucky,8.0,5,Western Kentucky,21
+116,116,Tristan,Boca Raton Bowl,App State (Favorite),3.0,0,Western Kentucky,21
+117,117,Pete F (expert),Boca Raton Bowl,App State (Favorite),8.0,0,Western Kentucky,21
+118,118,Cole W,Boca Raton Bowl,Western Kentucky,3.0,5,Western Kentucky,21
+119,119,Monica C,Boca Raton Bowl,App State (Favorite),14.0,0,Western Kentucky,21
+120,120,Striker,Boca Raton Bowl,App State (Favorite),65.0,0,Western Kentucky,21
+121,121,Cab,Boca Raton Bowl,App State (Favorite),11.0,0,Western Kentucky,21
+122,122,Peter C,Boca Raton Bowl,App State (Favorite),3.0,0,Western Kentucky,21
+123,123,Aiden M,Boca Raton Bowl,App State (Favorite),5.0,0,Western Kentucky,21
+124,124,Kendall,Boca Raton Bowl,App State (Favorite),23.0,0,Western Kentucky,21
+125,125,Brendan W,Boca Raton Bowl,Western Kentucky,7.0,5,Western Kentucky,21
+126,126,Emerson O,Boca Raton Bowl,App State (Favorite),3.0,0,Western Kentucky,21
+127,127,Spencer,Boca Raton Bowl,Western Kentucky,9.0,5,Western Kentucky,21
+128,128,Dirk P,Boca Raton Bowl,App State (Favorite),3.0,0,Western Kentucky,21
+129,129,John W,Boca Raton Bowl,Western Kentucky,3.0,5,Western Kentucky,21
+130,130,Kevin J,Boca Raton Bowl,App State (Favorite),13.0,0,Western Kentucky,21
+131,131,Dax,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+132,132,Renee B,Boca Raton Bowl,Western Kentucky,3.0,5,Western Kentucky,21
+133,133,Suz B,Boca Raton Bowl,Western Kentucky,4.0,5,Western Kentucky,21
+134,134,Tia B,Boca Raton Bowl,App State (Favorite),14.0,0,Western Kentucky,21
+135,135,David P,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+136,136,Kelsey P,Boca Raton Bowl,App State (Favorite),4.0,0,Western Kentucky,21
+137,137,Zinn,Boca Raton Bowl,App State (Favorite),17.0,0,Western Kentucky,21
+138,138,Larry W,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+139,139,Joe Canada,Boca Raton Bowl,App State (Favorite),9.0,0,Western Kentucky,21
+140,140,Paul R,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+141,141,Roitman,Boca Raton Bowl,App State (Favorite),4.0,0,Western Kentucky,21
+142,142,Sandra S,Boca Raton Bowl,Western Kentucky,3.0,5,Western Kentucky,21
+143,143,Paul P,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+144,144,Grapefruit,Boca Raton Bowl,App State (Favorite),3.0,0,Western Kentucky,21
+145,145,Thomas N,Boca Raton Bowl,Western Kentucky,3.0,5,Western Kentucky,21
+146,146,No Mercy,Boca Raton Bowl,App State (Favorite),3.0,0,Western Kentucky,21
+147,147,Cora P,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+148,148,Courtney K,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+149,149,Josh T,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+150,150,Eric K,Boca Raton Bowl,Western Kentucky,4.0,5,Western Kentucky,21
+151,151,Mike M,Boca Raton Bowl,App State (Favorite),10.0,0,Western Kentucky,21
+152,152,The Captain,Boca Raton Bowl,App State (Favorite),6.0,0,Western Kentucky,21
+153,153,Dank,Boca Raton Bowl,Western Kentucky,12.0,5,Western Kentucky,21
+154,154,Alvin T,Boca Raton Bowl,App State (Favorite),8.0,0,Western Kentucky,21
+155,155,Ty K,Boca Raton Bowl,Western Kentucky,3.0,5,Western Kentucky,21
+156,156,Binky,Boca Raton Bowl,Western Kentucky,9.0,5,Western Kentucky,21
+157,157,Connie K,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+158,158,Maggie R,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+159,159,Fred K,Boca Raton Bowl,App State (Favorite),14.0,0,Western Kentucky,21
+160,160,Jane S,Boca Raton Bowl,App State (Favorite),7.0,0,Western Kentucky,21
+161,161,Tiny Tim ,Boca Raton Bowl,Western Kentucky,14.0,6,Western Kentucky,21
+162,162,Carl J,Celebration Bowl,Jackson State (Favorite),21.0,0,South Carolina State,21
+163,163,Todd G,Celebration Bowl,South Carolina State,7.0,5,South Carolina State,21
+164,164,Jack S,Celebration Bowl,Jackson State (Favorite),4.0,0,South Carolina State,21
+165,165,Ethan H,Celebration Bowl,Jackson State (Favorite),20.0,0,South Carolina State,21
+166,166,Wisky,Celebration Bowl,Jackson State (Favorite),21.0,0,South Carolina State,21
+167,167,Colm,Celebration Bowl,Jackson State (Favorite),5.0,0,South Carolina State,21
+168,168,Stanley,Celebration Bowl,Jackson State (Favorite),18.0,0,South Carolina State,21
+169,169,Craig Boogie,Celebration Bowl,South Carolina State,1.0,5,South Carolina State,21
+170,170,Tristan,Celebration Bowl,Jackson State (Favorite),10.0,0,South Carolina State,21
+171,171,Pete F (expert),Celebration Bowl,Jackson State (Favorite),13.0,0,South Carolina State,21
+172,172,Cole W,Celebration Bowl,Jackson State (Favorite),10.0,0,South Carolina State,21
+173,173,Monica C,Celebration Bowl,South Carolina State,3.0,5,South Carolina State,21
+174,174,Striker,Celebration Bowl,Jackson State (Favorite),48.0,0,South Carolina State,21
+175,175,Cab,Celebration Bowl,Jackson State (Favorite),19.0,0,South Carolina State,21
+176,176,Peter C,Celebration Bowl,Jackson State (Favorite),14.0,0,South Carolina State,21
+177,177,Aiden M,Celebration Bowl,Jackson State (Favorite),8.0,0,South Carolina State,21
+178,178,Kendall,Celebration Bowl,Jackson State (Favorite),1.0,0,South Carolina State,21
+179,179,Brendan W,Celebration Bowl,Jackson State (Favorite),17.0,0,South Carolina State,21
+180,180,Emerson O,Celebration Bowl,Jackson State (Favorite),17.0,0,South Carolina State,21
+181,181,Spencer,Celebration Bowl,Jackson State (Favorite),10.0,0,South Carolina State,21
+182,182,Dirk P,Celebration Bowl,Jackson State (Favorite),12.0,0,South Carolina State,21
+183,183,John W,Celebration Bowl,South Carolina State,7.0,5,South Carolina State,21
+184,184,Kevin J,Celebration Bowl,Jackson State (Favorite),24.0,0,South Carolina State,21
+185,185,Dax,Celebration Bowl,Jackson State (Favorite),14.0,0,South Carolina State,21
+186,186,Renee B,Celebration Bowl,South Carolina State,7.0,5,South Carolina State,21
+187,187,Suz B,Celebration Bowl,Jackson State (Favorite),17.0,0,South Carolina State,21
+188,188,Tia B,Celebration Bowl,Jackson State (Favorite),24.0,0,South Carolina State,21
+189,189,David P,Celebration Bowl,South Carolina State,10.0,5,South Carolina State,21
+190,190,Kelsey P,Celebration Bowl,Jackson State (Favorite),10.0,0,South Carolina State,21
+191,191,Zinn,Celebration Bowl,South Carolina State,3.0,5,South Carolina State,21
+192,192,Larry W,Celebration Bowl,Jackson State (Favorite),14.0,0,South Carolina State,21
+193,193,Joe Canada,Celebration Bowl,South Carolina State,3.0,5,South Carolina State,21
+194,194,Paul R,Celebration Bowl,Jackson State (Favorite),14.0,0,South Carolina State,21
+195,195,Roitman,Celebration Bowl,South Carolina State,4.0,5,South Carolina State,21
+196,196,Sandra S,Celebration Bowl,Jackson State (Favorite),7.0,0,South Carolina State,21
+197,197,Paul P,Celebration Bowl,Jackson State (Favorite),24.0,0,South Carolina State,21
+198,198,Grapefruit,Celebration Bowl,Jackson State (Favorite),10.0,0,South Carolina State,21
+199,199,Thomas N,Celebration Bowl,Jackson State (Favorite),21.0,0,South Carolina State,21
+200,200,No Mercy,Celebration Bowl,Jackson State (Favorite),12.0,0,South Carolina State,21
+201,201,Cora P,Celebration Bowl,South Carolina State,6.0,5,South Carolina State,21
+202,202,Courtney K,Celebration Bowl,Jackson State (Favorite),3.0,0,South Carolina State,21
+203,203,Josh T,Celebration Bowl,Jackson State (Favorite),6.0,0,South Carolina State,21
+204,204,Eric K,Celebration Bowl,Jackson State (Favorite),14.0,0,South Carolina State,21
+205,205,Mike M,Celebration Bowl,Jackson State (Favorite),14.0,0,South Carolina State,21
+206,206,The Captain,Celebration Bowl,Jackson State (Favorite),17.0,0,South Carolina State,21
+207,207,Dank,Celebration Bowl,Jackson State (Favorite),6.0,0,South Carolina State,21
+208,208,Alvin T,Celebration Bowl,Jackson State (Favorite),16.0,0,South Carolina State,21
+209,209,Ty K,Celebration Bowl,Jackson State (Favorite),17.0,0,South Carolina State,21
+210,210,Binky,Celebration Bowl,Jackson State (Favorite),4.0,0,South Carolina State,21
+211,211,Connie K,Celebration Bowl,Jackson State (Favorite),14.0,0,South Carolina State,21
+212,212,Maggie R,Celebration Bowl,South Carolina State,3.0,5,South Carolina State,21
+213,213,Fred K,Celebration Bowl,Jackson State (Favorite),10.0,0,South Carolina State,21
+214,214,Jane S,Celebration Bowl,Jackson State (Favorite),10.0,0,South Carolina State,21
+215,215,Tiny Tim ,Celebration Bowl,South Carolina State,12.0,5,South Carolina State,21
+216,216,Carl J,New Mexico Bowl,Fresno State (Favorite),21.0,5,Fresno State (Favorite),7
+217,217,Todd G,New Mexico Bowl,Fresno State (Favorite),8.0,8,Fresno State (Favorite),7
+218,218,Jack S,New Mexico Bowl,Fresno State (Favorite),11.0,6,Fresno State (Favorite),7
+219,219,Ethan H,New Mexico Bowl,Fresno State (Favorite),21.0,5,Fresno State (Favorite),7
+220,220,Wisky,New Mexico Bowl,Fresno State (Favorite),21.0,5,Fresno State (Favorite),7
+221,221,Colm,New Mexico Bowl,Fresno State (Favorite),14.0,6,Fresno State (Favorite),7
+222,222,Stanley,New Mexico Bowl,UTEP,14.0,0,Fresno State (Favorite),7
+223,223,Craig Boogie,New Mexico Bowl,Fresno State (Favorite),7.0,10,Fresno State (Favorite),7
+224,224,Tristan,New Mexico Bowl,Fresno State (Favorite),14.0,6,Fresno State (Favorite),7
+225,225,Pete F (expert),New Mexico Bowl,Fresno State (Favorite),20.0,5,Fresno State (Favorite),7
+226,226,Cole W,New Mexico Bowl,Fresno State (Favorite),20.0,5,Fresno State (Favorite),7
+227,227,Monica C,New Mexico Bowl,UTEP,3.0,0,Fresno State (Favorite),7
+228,228,Striker,New Mexico Bowl,Fresno State (Favorite),50.0,5,Fresno State (Favorite),7
+229,229,Cab,New Mexico Bowl,Fresno State (Favorite),12.0,6,Fresno State (Favorite),7
+230,230,Peter C,New Mexico Bowl,Fresno State (Favorite),14.0,6,Fresno State (Favorite),7
+231,231,Aiden M,New Mexico Bowl,Fresno State (Favorite),18.0,5,Fresno State (Favorite),7
+232,232,Kendall,New Mexico Bowl,Fresno State (Favorite),9.0,8,Fresno State (Favorite),7
+233,233,Brendan W,New Mexico Bowl,UTEP,3.0,0,Fresno State (Favorite),7
+234,234,Emerson O,New Mexico Bowl,UTEP,3.0,0,Fresno State (Favorite),7
+235,235,Spencer,New Mexico Bowl,Fresno State (Favorite),6.0,8,Fresno State (Favorite),7
+236,236,Dirk P,New Mexico Bowl,Fresno State (Favorite),13.0,6,Fresno State (Favorite),7
+237,237,John W,New Mexico Bowl,Fresno State (Favorite),7.0,10,Fresno State (Favorite),7
+238,238,Kevin J,New Mexico Bowl,Fresno State (Favorite),8.0,8,Fresno State (Favorite),7
+239,239,Dax,New Mexico Bowl,UTEP,3.0,0,Fresno State (Favorite),7
+240,240,Renee B,New Mexico Bowl,Fresno State (Favorite),10.0,8,Fresno State (Favorite),7
+241,241,Suz B,New Mexico Bowl,Fresno State (Favorite),17.0,5,Fresno State (Favorite),7
+242,242,Tia B,New Mexico Bowl,Fresno State (Favorite),21.0,5,Fresno State (Favorite),7
+243,243,David P,New Mexico Bowl,UTEP,7.0,0,Fresno State (Favorite),7
+244,244,Kelsey P,New Mexico Bowl,Fresno State (Favorite),10.0,8,Fresno State (Favorite),7
+245,245,Zinn,New Mexico Bowl,Fresno State (Favorite),11.0,6,Fresno State (Favorite),7
+246,246,Larry W,New Mexico Bowl,Fresno State (Favorite),24.0,5,Fresno State (Favorite),7
+247,247,Joe Canada,New Mexico Bowl,Fresno State (Favorite),15.0,5,Fresno State (Favorite),7
+248,248,Paul R,New Mexico Bowl,Fresno State (Favorite),14.0,6,Fresno State (Favorite),7
+249,249,Roitman,New Mexico Bowl,UTEP,4.0,0,Fresno State (Favorite),7
+250,250,Sandra S,New Mexico Bowl,UTEP,6.0,0,Fresno State (Favorite),7
+251,251,Paul P,New Mexico Bowl,Fresno State (Favorite),9.0,8,Fresno State (Favorite),7
+252,252,Grapefruit,New Mexico Bowl,Fresno State (Favorite),12.0,6,Fresno State (Favorite),7
+253,253,Thomas N,New Mexico Bowl,Fresno State (Favorite),21.0,5,Fresno State (Favorite),7
+254,254,No Mercy,New Mexico Bowl,Fresno State (Favorite),13.0,6,Fresno State (Favorite),7
+255,255,Cora P,New Mexico Bowl,Fresno State (Favorite),10.0,8,Fresno State (Favorite),7
+256,256,Courtney K,New Mexico Bowl,UTEP,6.0,0,Fresno State (Favorite),7
+257,257,Josh T,New Mexico Bowl,Fresno State (Favorite),17.0,5,Fresno State (Favorite),7
+258,258,Eric K,New Mexico Bowl,Fresno State (Favorite),10.0,8,Fresno State (Favorite),7
+259,259,Mike M,New Mexico Bowl,Fresno State (Favorite),7.0,10,Fresno State (Favorite),7
+260,260,The Captain,New Mexico Bowl,Fresno State (Favorite),8.0,8,Fresno State (Favorite),7
+261,261,Dank,New Mexico Bowl,UTEP,9.0,0,Fresno State (Favorite),7
+262,262,Alvin T,New Mexico Bowl,Fresno State (Favorite),9.0,8,Fresno State (Favorite),7
+263,263,Ty K,New Mexico Bowl,Fresno State (Favorite),28.0,5,Fresno State (Favorite),7
+264,264,Binky,New Mexico Bowl,Fresno State (Favorite),12.0,6,Fresno State (Favorite),7
+265,265,Connie K,New Mexico Bowl,Fresno State (Favorite),20.0,5,Fresno State (Favorite),7
+266,266,Maggie R,New Mexico Bowl,Fresno State (Favorite),10.0,8,Fresno State (Favorite),7
+267,267,Fred K,New Mexico Bowl,Fresno State (Favorite),6.0,8,Fresno State (Favorite),7
+268,268,Jane S,New Mexico Bowl,Fresno State (Favorite),10.0,8,Fresno State (Favorite),7
+269,269,Tiny Tim ,New Mexico Bowl,Fresno State (Favorite),5.0,8,Fresno State (Favorite),7
+270,270,Carl J,Independence Bowl,UAB,3.0,0,UAB ,3
+271,271,Todd G,Independence Bowl,BYU (Favorite),18.0,0,UAB ,3
+272,272,Jack S,Independence Bowl,BYU (Favorite),18.0,0,UAB ,3
+273,273,Ethan H,Independence Bowl,BYU (Favorite),28.0,0,UAB ,3
+274,274,Wisky,Independence Bowl,BYU (Favorite),28.0,0,UAB ,3
+275,275,Colm,Independence Bowl,UAB,7.0,0,UAB ,3
+276,276,Stanley,Independence Bowl,BYU (Favorite),7.0,0,UAB ,3
+277,277,Craig Boogie,Independence Bowl,UAB,3.0,0,UAB ,3
+278,278,Tristan,Independence Bowl,BYU (Favorite),15.0,0,UAB ,3
+279,279,Pete F (expert),Independence Bowl,BYU (Favorite),21.0,0,UAB ,3
+280,280,Cole W,Independence Bowl,BYU (Favorite),7.0,0,UAB ,3
+281,281,Monica C,Independence Bowl,UAB,3.0,0,UAB ,3
+282,282,Striker,Independence Bowl,BYU (Favorite),56.0,0,UAB ,3
+283,283,Cab,Independence Bowl,BYU (Favorite),6.0,0,UAB ,3
+284,284,Peter C,Independence Bowl,BYU (Favorite),14.0,0,UAB ,3
+285,285,Aiden M,Independence Bowl,UAB,3.0,0,UAB ,3
+286,286,Kendall,Independence Bowl,BYU (Favorite),21.0,0,UAB ,3
+287,287,Brendan W,Independence Bowl,BYU (Favorite),14.0,0,UAB ,3
+288,288,Emerson O,Independence Bowl,BYU (Favorite),7.0,0,UAB ,3
+289,289,Spencer,Independence Bowl,BYU (Favorite),14.0,0,UAB ,3
+290,290,Dirk P,Independence Bowl,BYU (Favorite),8.0,0,UAB ,3
+291,291,John W,Independence Bowl,BYU (Favorite),10.0,0,UAB ,3
+292,292,Kevin J,Independence Bowl,BYU (Favorite),17.0,0,UAB ,3
+293,293,Dax,Independence Bowl,BYU (Favorite),10.0,0,UAB ,3
+294,294,Renee B,Independence Bowl,BYU (Favorite),7.0,0,UAB ,3
+295,295,Suz B,Independence Bowl,UAB,7.0,0,UAB ,3
+296,296,Tia B,Independence Bowl,BYU (Favorite),14.0,0,UAB ,3
+297,297,David P,Independence Bowl,UAB,10.0,0,UAB ,3
+298,298,Kelsey P,Independence Bowl,UAB,4.0,0,UAB ,3
+299,299,Zinn,Independence Bowl,BYU (Favorite),5.0,0,UAB ,3
+300,300,Larry W,Independence Bowl,BYU (Favorite),13.0,0,UAB ,3
+301,301,Joe Canada,Independence Bowl,BYU (Favorite),6.0,0,UAB ,3
+302,302,Paul R,Independence Bowl,UAB,4.0,0,UAB ,3
+303,303,Roitman,Independence Bowl,UAB,4.0,0,UAB ,3
+304,304,Sandra S,Independence Bowl,BYU (Favorite),10.0,0,UAB ,3
+305,305,Paul P,Independence Bowl,BYU (Favorite),13.0,0,UAB ,3
+306,306,Grapefruit,Independence Bowl,BYU (Favorite),7.0,0,UAB ,3
+307,307,Thomas N,Independence Bowl,UAB,5.0,0,UAB ,3
+308,308,No Mercy,Independence Bowl,BYU (Favorite),8.0,0,UAB ,3
+309,309,Cora P,Independence Bowl,UAB,3.0,0,UAB ,3
+310,310,Courtney K,Independence Bowl,UAB,3.0,0,UAB ,3
+311,311,Josh T,Independence Bowl,BYU (Favorite),10.0,0,UAB ,3
+312,312,Eric K,Independence Bowl,BYU (Favorite),14.0,0,UAB ,3
+313,313,Mike M,Independence Bowl,BYU (Favorite),14.0,0,UAB ,3
+314,314,The Captain,Independence Bowl,BYU (Favorite),21.0,0,UAB ,3
+315,315,Dank,Independence Bowl,BYU (Favorite),3.0,0,UAB ,3
+316,316,Alvin T,Independence Bowl,UAB,4.0,0,UAB ,3
+317,317,Ty K,Independence Bowl,BYU (Favorite),10.0,0,UAB ,3
+318,318,Binky,Independence Bowl,BYU (Favorite),7.0,0,UAB ,3
+319,319,Connie K,Independence Bowl,BYU (Favorite),10.0,0,UAB ,3
+320,320,Maggie R,Independence Bowl,BYU (Favorite),20.0,0,UAB ,3
+321,321,Fred K,Independence Bowl,BYU (Favorite),13.0,0,UAB ,3
+322,322,Jane S,Independence Bowl,BYU (Favorite),7.0,0,UAB ,3
+323,323,Tiny Tim ,Independence Bowl,UAB,12.0,0,UAB ,3
+324,324,Carl J,Lending Tree Bowl,Liberty (Favorite),14.0,5,Liberty (Favorite),36
+325,325,Todd G,Lending Tree Bowl,Eastern Michigan,4.0,0,Liberty (Favorite),36
+326,326,Jack S,Lending Tree Bowl,Liberty (Favorite),13.0,5,Liberty (Favorite),36
+327,327,Ethan H,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+328,328,Wisky,Lending Tree Bowl,Eastern Michigan,7.0,0,Liberty (Favorite),36
+329,329,Colm,Lending Tree Bowl,Eastern Michigan,2.0,0,Liberty (Favorite),36
+330,330,Stanley,Lending Tree Bowl,Eastern Michigan,1.0,0,Liberty (Favorite),36
+331,331,Craig Boogie,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+332,332,Tristan,Lending Tree Bowl,Liberty (Favorite),4.0,5,Liberty (Favorite),36
+333,333,Pete F (expert),Lending Tree Bowl,Liberty (Favorite),4.0,5,Liberty (Favorite),36
+334,334,Cole W,Lending Tree Bowl,Eastern Michigan,1.0,0,Liberty (Favorite),36
+335,335,Monica C,Lending Tree Bowl,Liberty (Favorite),3.0,5,Liberty (Favorite),36
+336,336,Striker,Lending Tree Bowl,Eastern Michigan,68.0,0,Liberty (Favorite),36
+337,337,Cab,Lending Tree Bowl,Eastern Michigan,7.0,0,Liberty (Favorite),36
+338,338,Peter C,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+339,339,Aiden M,Lending Tree Bowl,Liberty (Favorite),5.0,5,Liberty (Favorite),36
+340,340,Kendall,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+341,341,Brendan W,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+342,342,Emerson O,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+343,343,Spencer,Lending Tree Bowl,Liberty (Favorite),3.0,5,Liberty (Favorite),36
+344,344,Dirk P,Lending Tree Bowl,Liberty (Favorite),7.0,5,Liberty (Favorite),36
+345,345,John W,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+346,346,Kevin J,Lending Tree Bowl,Eastern Michigan,4.0,0,Liberty (Favorite),36
+347,347,Dax,Lending Tree Bowl,Liberty (Favorite),6.0,5,Liberty (Favorite),36
+348,348,Renee B,Lending Tree Bowl,Liberty (Favorite),7.0,5,Liberty (Favorite),36
+349,349,Suz B,Lending Tree Bowl,Liberty (Favorite),16.0,5,Liberty (Favorite),36
+350,350,Tia B,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+351,351,David P,Lending Tree Bowl,Eastern Michigan,7.0,0,Liberty (Favorite),36
+352,352,Kelsey P,Lending Tree Bowl,Liberty (Favorite),7.0,5,Liberty (Favorite),36
+353,353,Zinn,Lending Tree Bowl,Liberty (Favorite),2.0,5,Liberty (Favorite),36
+354,354,Larry W,Lending Tree Bowl,Liberty (Favorite),14.0,5,Liberty (Favorite),36
+355,355,Joe Canada,Lending Tree Bowl,Liberty (Favorite),6.0,5,Liberty (Favorite),36
+356,356,Paul R,Lending Tree Bowl,Eastern Michigan,6.0,0,Liberty (Favorite),36
+357,357,Roitman,Lending Tree Bowl,Eastern Michigan,4.0,0,Liberty (Favorite),36
+358,358,Sandra S,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+359,359,Paul P,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+360,360,Grapefruit,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+361,361,Thomas N,Lending Tree Bowl,Eastern Michigan,5.0,0,Liberty (Favorite),36
+362,362,No Mercy,Lending Tree Bowl,Liberty (Favorite),7.0,5,Liberty (Favorite),36
+363,363,Cora P,Lending Tree Bowl,Liberty (Favorite),14.0,5,Liberty (Favorite),36
+364,364,Courtney K,Lending Tree Bowl,Eastern Michigan,3.0,0,Liberty (Favorite),36
+365,365,Josh T,Lending Tree Bowl,Liberty (Favorite),6.0,5,Liberty (Favorite),36
+366,366,Eric K,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+367,367,Mike M,Lending Tree Bowl,Liberty (Favorite),7.0,5,Liberty (Favorite),36
+368,368,The Captain,Lending Tree Bowl,Eastern Michigan,2.0,0,Liberty (Favorite),36
+369,369,Dank,Lending Tree Bowl,Eastern Michigan,12.0,0,Liberty (Favorite),36
+370,370,Alvin T,Lending Tree Bowl,Liberty (Favorite),9.0,5,Liberty (Favorite),36
+371,371,Ty K,Lending Tree Bowl,Liberty (Favorite),3.0,5,Liberty (Favorite),36
+372,372,Binky,Lending Tree Bowl,Eastern Michigan,9.0,0,Liberty (Favorite),36
+373,373,Connie K,Lending Tree Bowl,Eastern Michigan,6.0,0,Liberty (Favorite),36
+374,374,Maggie R,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+375,375,Fred K,Lending Tree Bowl,Liberty (Favorite),7.0,5,Liberty (Favorite),36
+376,376,Jane S,Lending Tree Bowl,Liberty (Favorite),10.0,5,Liberty (Favorite),36
+377,377,Tiny Tim ,Lending Tree Bowl,Liberty (Favorite),15.0,5,Liberty (Favorite),36
+378,378,Carl J,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+379,379,Todd G,LA Bowl,Oregon State (Favorite),10.0,0,Utah State,11
+380,380,Jack S,LA Bowl,Oregon State (Favorite),4.0,0,Utah State,11
+381,381,Ethan H,LA Bowl,Oregon State (Favorite),18.0,0,Utah State,11
+382,382,Wisky,LA Bowl,Utah State,3.0,5,Utah State,11
+383,383,Colm,LA Bowl,Utah State,6.0,6,Utah State,11
+384,384,Stanley,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+385,385,Craig Boogie,LA Bowl,Oregon State (Favorite),12.0,0,Utah State,11
+386,386,Tristan,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+387,387,Pete F (expert),LA Bowl,Oregon State (Favorite),10.0,0,Utah State,11
+388,388,Cole W,LA Bowl,Utah State,3.0,5,Utah State,11
+389,389,Monica C,LA Bowl,Utah State,3.0,5,Utah State,11
+390,390,Striker,LA Bowl,Utah State,61.0,5,Utah State,11
+391,391,Cab,LA Bowl,Oregon State (Favorite),9.0,0,Utah State,11
+392,392,Peter C,LA Bowl,Utah State,3.0,5,Utah State,11
+393,393,Aiden M,LA Bowl,Utah State,6.0,6,Utah State,11
+394,394,Kendall,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+395,395,Brendan W,LA Bowl,Utah State,7.0,6,Utah State,11
+396,396,Emerson O,LA Bowl,Oregon State (Favorite),3.0,0,Utah State,11
+397,397,Spencer,LA Bowl,Oregon State (Favorite),10.0,0,Utah State,11
+398,398,Dirk P,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+399,399,John W,LA Bowl,Oregon State (Favorite),6.0,0,Utah State,11
+400,400,Kevin J,LA Bowl,Utah State,7.0,6,Utah State,11
+401,401,Dax,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+402,402,Renee B,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+403,403,Suz B,LA Bowl,Utah State,3.0,5,Utah State,11
+404,404,Tia B,LA Bowl,Oregon State (Favorite),14.0,0,Utah State,11
+405,405,David P,LA Bowl,Oregon State (Favorite),10.0,0,Utah State,11
+406,406,Kelsey P,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+407,407,Zinn,LA Bowl,Oregon State (Favorite),5.0,0,Utah State,11
+408,408,Larry W,LA Bowl,Utah State,7.0,6,Utah State,11
+409,409,Joe Canada,LA Bowl,Utah State,1.0,5,Utah State,11
+410,410,Paul R,LA Bowl,Oregon State (Favorite),14.0,0,Utah State,11
+411,411,Roitman,LA Bowl,Oregon State (Favorite),4.0,0,Utah State,11
+412,412,Sandra S,LA Bowl,Oregon State (Favorite),4.0,0,Utah State,11
+413,413,Paul P,LA Bowl,Utah State,4.0,6,Utah State,11
+414,414,Grapefruit,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+415,415,Thomas N,LA Bowl,Utah State,10.0,8,Utah State,11
+416,416,No Mercy,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+417,417,Cora P,LA Bowl,Utah State,3.0,5,Utah State,11
+418,418,Courtney K,LA Bowl,Oregon State (Favorite),6.0,0,Utah State,11
+419,419,Josh T,LA Bowl,Oregon State (Favorite),4.0,0,Utah State,11
+420,420,Eric K,LA Bowl,Oregon State (Favorite),4.0,0,Utah State,11
+421,421,Mike M,LA Bowl,Utah State,3.0,5,Utah State,11
+422,422,The Captain,LA Bowl,Utah State,7.0,6,Utah State,11
+423,423,Dank,LA Bowl,Oregon State (Favorite),9.0,0,Utah State,11
+424,424,Alvin T,LA Bowl,Oregon State (Favorite),14.0,0,Utah State,11
+425,425,Ty K,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+426,426,Binky,LA Bowl,Utah State,3.0,5,Utah State,11
+427,427,Connie K,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+428,428,Maggie R,LA Bowl,Utah State,7.0,6,Utah State,11
+429,429,Fred K,LA Bowl,Oregon State (Favorite),13.0,0,Utah State,11
+430,430,Jane S,LA Bowl,Oregon State (Favorite),7.0,0,Utah State,11
+431,431,Tiny Tim ,LA Bowl,Oregon State (Favorite),14.0,0,Utah State,11
+432,432,Carl J,New Orleans Bowl,Louisiana (Favorite),3.0,5,Louisiana (Favorite),15
+433,433,Todd G,New Orleans Bowl,Marshall,3.0,0,Louisiana (Favorite),15
+434,434,Jack S,New Orleans Bowl,Marshall,4.0,0,Louisiana (Favorite),15
+435,435,Ethan H,New Orleans Bowl,Louisiana (Favorite),21.0,6,Louisiana (Favorite),15
+436,436,Wisky,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+437,437,Colm,New Orleans Bowl,Louisiana (Favorite),10.0,6,Louisiana (Favorite),15
+438,438,Stanley,New Orleans Bowl,Marshall,7.0,0,Louisiana (Favorite),15
+439,439,Craig Boogie,New Orleans Bowl,Marshall,3.0,0,Louisiana (Favorite),15
+440,440,Tristan,New Orleans Bowl,Louisiana (Favorite),4.0,5,Louisiana (Favorite),15
+441,441,Pete F (expert),New Orleans Bowl,Louisiana (Favorite),6.0,5,Louisiana (Favorite),15
+442,442,Cole W,New Orleans Bowl,Louisiana (Favorite),13.0,8,Louisiana (Favorite),15
+443,443,Monica C,New Orleans Bowl,Marshall,7.0,0,Louisiana (Favorite),15
+444,444,Striker,New Orleans Bowl,Louisiana (Favorite),52.0,5,Louisiana (Favorite),15
+445,445,Cab,New Orleans Bowl,Louisiana (Favorite),11.0,6,Louisiana (Favorite),15
+446,446,Peter C,New Orleans Bowl,Marshall,3.0,0,Louisiana (Favorite),15
+447,447,Aiden M,New Orleans Bowl,Marshall,3.0,0,Louisiana (Favorite),15
+448,448,Kendall,New Orleans Bowl,Louisiana (Favorite),14.0,8,Louisiana (Favorite),15
+449,449,Brendan W,New Orleans Bowl,Louisiana (Favorite),14.0,8,Louisiana (Favorite),15
+450,450,Emerson O,New Orleans Bowl,Louisiana (Favorite),5.0,5,Louisiana (Favorite),15
+451,451,Spencer,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+452,452,Dirk P,New Orleans Bowl,Louisiana (Favorite),5.0,5,Louisiana (Favorite),15
+453,453,John W,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+454,454,Kevin J,New Orleans Bowl,Louisiana (Favorite),21.0,6,Louisiana (Favorite),15
+455,455,Dax,New Orleans Bowl,Louisiana (Favorite),21.0,6,Louisiana (Favorite),15
+456,456,Renee B,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+457,457,Suz B,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+458,458,Tia B,New Orleans Bowl,Marshall,14.0,0,Louisiana (Favorite),15
+459,459,David P,New Orleans Bowl,Louisiana (Favorite),3.0,5,Louisiana (Favorite),15
+460,460,Kelsey P,New Orleans Bowl,Louisiana (Favorite),4.0,5,Louisiana (Favorite),15
+461,461,Zinn,New Orleans Bowl,Marshall,7.0,0,Louisiana (Favorite),15
+462,462,Larry W,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+463,463,Joe Canada,New Orleans Bowl,Louisiana (Favorite),8.0,6,Louisiana (Favorite),15
+464,464,Paul R,New Orleans Bowl,Marshall,7.0,0,Louisiana (Favorite),15
+465,465,Roitman,New Orleans Bowl,Marshall,4.0,0,Louisiana (Favorite),15
+466,466,Sandra S,New Orleans Bowl,Marshall,1.0,0,Louisiana (Favorite),15
+467,467,Paul P,New Orleans Bowl,Louisiana (Favorite),14.0,8,Louisiana (Favorite),15
+468,468,Grapefruit,New Orleans Bowl,Louisiana (Favorite),5.0,5,Louisiana (Favorite),15
+469,469,Thomas N,New Orleans Bowl,Marshall,7.0,0,Louisiana (Favorite),15
+470,470,No Mercy,New Orleans Bowl,Louisiana (Favorite),5.0,5,Louisiana (Favorite),15
+471,471,Cora P,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+472,472,Courtney K,New Orleans Bowl,Louisiana (Favorite),3.0,5,Louisiana (Favorite),15
+473,473,Josh T,New Orleans Bowl,Louisiana (Favorite),10.0,6,Louisiana (Favorite),15
+474,474,Eric K,New Orleans Bowl,Marshall,10.0,0,Louisiana (Favorite),15
+475,475,Mike M,New Orleans Bowl,Louisiana (Favorite),14.0,8,Louisiana (Favorite),15
+476,476,The Captain,New Orleans Bowl,Louisiana (Favorite),4.0,5,Louisiana (Favorite),15
+477,477,Dank,New Orleans Bowl,Marshall,6.0,0,Louisiana (Favorite),15
+478,478,Alvin T,New Orleans Bowl,Marshall,14.0,0,Louisiana (Favorite),15
+479,479,Ty K,New Orleans Bowl,Louisiana (Favorite),10.0,6,Louisiana (Favorite),15
+480,480,Binky,New Orleans Bowl,Louisiana (Favorite),9.0,6,Louisiana (Favorite),15
+481,481,Connie K,New Orleans Bowl,Marshall,6.0,0,Louisiana (Favorite),15
+482,482,Maggie R,New Orleans Bowl,Marshall,3.0,0,Louisiana (Favorite),15
+483,483,Fred K,New Orleans Bowl,Louisiana (Favorite),7.0,5,Louisiana (Favorite),15
+484,484,Jane S,New Orleans Bowl,Louisiana (Favorite),5.0,5,Louisiana (Favorite),15
+485,485,Tiny Tim ,New Orleans Bowl,Marshall,1.0,0,Louisiana (Favorite),15
+486,486,Carl J,Myrtle Beach Bowl,Tulsa (Favorite),14.0,8,Tulsa (Favorite),13
+487,487,Todd G,Myrtle Beach Bowl,Tulsa (Favorite),8.0,6,Tulsa (Favorite),13
+488,488,Jack S,Myrtle Beach Bowl,Tulsa (Favorite),4.0,5,Tulsa (Favorite),13
+489,489,Ethan H,Myrtle Beach Bowl,Tulsa (Favorite),3.0,5,Tulsa (Favorite),13
+490,490,Wisky,Myrtle Beach Bowl,Tulsa (Favorite),14.0,8,Tulsa (Favorite),13
+491,491,Colm,Myrtle Beach Bowl,Tulsa (Favorite),21.0,5,Tulsa (Favorite),13
+492,492,Stanley,Myrtle Beach Bowl,Tulsa (Favorite),9.0,6,Tulsa (Favorite),13
+493,493,Craig Boogie,Myrtle Beach Bowl,Tulsa (Favorite),21.0,5,Tulsa (Favorite),13
+494,494,Tristan,Myrtle Beach Bowl,Tulsa (Favorite),6.0,6,Tulsa (Favorite),13
+495,495,Pete F (expert),Myrtle Beach Bowl,Tulsa (Favorite),7.0,6,Tulsa (Favorite),13
+496,496,Cole W,Myrtle Beach Bowl,Tulsa (Favorite),14.0,8,Tulsa (Favorite),13
+497,497,Monica C,Myrtle Beach Bowl,Old Dominion,1.0,0,Tulsa (Favorite),13
+498,498,Striker,Myrtle Beach Bowl,Tulsa (Favorite),65.0,5,Tulsa (Favorite),13
+499,499,Cab,Myrtle Beach Bowl,Tulsa (Favorite),10.0,8,Tulsa (Favorite),13
+500,500,Peter C,Myrtle Beach Bowl,Tulsa (Favorite),7.0,6,Tulsa (Favorite),13
+501,501,Aiden M,Myrtle Beach Bowl,Tulsa (Favorite),8.0,6,Tulsa (Favorite),13
+502,502,Kendall,Myrtle Beach Bowl,Tulsa (Favorite),15.0,8,Tulsa (Favorite),13
+503,503,Brendan W,Myrtle Beach Bowl,Tulsa (Favorite),10.0,8,Tulsa (Favorite),13
+504,504,Emerson O,Myrtle Beach Bowl,Tulsa (Favorite),7.0,6,Tulsa (Favorite),13
+505,505,Spencer,Myrtle Beach Bowl,Tulsa (Favorite),9.0,6,Tulsa (Favorite),13
+506,506,Dirk P,Myrtle Beach Bowl,Tulsa (Favorite),7.0,6,Tulsa (Favorite),13
+507,507,John W,Myrtle Beach Bowl,Tulsa (Favorite),8.0,6,Tulsa (Favorite),13
+508,508,Kevin J,Myrtle Beach Bowl,Tulsa (Favorite),3.0,5,Tulsa (Favorite),13
+509,509,Dax,Myrtle Beach Bowl,Tulsa (Favorite),14.0,8,Tulsa (Favorite),13
+510,510,Renee B,Myrtle Beach Bowl,Old Dominion,7.0,0,Tulsa (Favorite),13
+511,511,Suz B,Myrtle Beach Bowl,Tulsa (Favorite),3.0,5,Tulsa (Favorite),13
+512,512,Tia B,Myrtle Beach Bowl,Tulsa (Favorite),14.0,8,Tulsa (Favorite),13
+513,513,David P,Myrtle Beach Bowl,Tulsa (Favorite),17.0,6,Tulsa (Favorite),13
+514,514,Kelsey P,Myrtle Beach Bowl,Tulsa (Favorite),4.0,5,Tulsa (Favorite),13
+515,515,Zinn,Myrtle Beach Bowl,Tulsa (Favorite),23.0,5,Tulsa (Favorite),13
+516,516,Larry W,Myrtle Beach Bowl,Tulsa (Favorite),7.0,6,Tulsa (Favorite),13
+517,517,Joe Canada,Myrtle Beach Bowl,Old Dominion,2.0,0,Tulsa (Favorite),13
+518,518,Paul R,Myrtle Beach Bowl,Tulsa (Favorite),6.0,6,Tulsa (Favorite),13
+519,519,Roitman,Myrtle Beach Bowl,Tulsa (Favorite),4.0,5,Tulsa (Favorite),13
+520,520,Sandra S,Myrtle Beach Bowl,Old Dominion,3.0,0,Tulsa (Favorite),13
+521,521,Paul P,Myrtle Beach Bowl,Tulsa (Favorite),3.0,5,Tulsa (Favorite),13
+522,522,Grapefruit,Myrtle Beach Bowl,Tulsa (Favorite),10.0,8,Tulsa (Favorite),13
+523,523,Thomas N,Myrtle Beach Bowl,Tulsa (Favorite),10.0,8,Tulsa (Favorite),13
+524,524,No Mercy,Myrtle Beach Bowl,Tulsa (Favorite),7.0,6,Tulsa (Favorite),13
+525,525,Cora P,Myrtle Beach Bowl,Old Dominion,3.0,0,Tulsa (Favorite),13
+526,526,Courtney K,Myrtle Beach Bowl,Tulsa (Favorite),6.0,6,Tulsa (Favorite),13
+527,527,Josh T,Myrtle Beach Bowl,Tulsa (Favorite),9.0,6,Tulsa (Favorite),13
+528,528,Eric K,Myrtle Beach Bowl,Tulsa (Favorite),4.0,5,Tulsa (Favorite),13
+529,529,Mike M,Myrtle Beach Bowl,Tulsa (Favorite),3.0,5,Tulsa (Favorite),13
+530,530,The Captain,Myrtle Beach Bowl,Tulsa (Favorite),7.0,6,Tulsa (Favorite),13
+531,531,Dank,Myrtle Beach Bowl,Old Dominion,7.0,0,Tulsa (Favorite),13
+532,532,Alvin T,Myrtle Beach Bowl,Tulsa (Favorite),14.0,8,Tulsa (Favorite),13
+533,533,Ty K,Myrtle Beach Bowl,Tulsa (Favorite),10.0,8,Tulsa (Favorite),13
+534,534,Binky,Myrtle Beach Bowl,Tulsa (Favorite),13.0,10,Tulsa (Favorite),13
+535,535,Connie K,Myrtle Beach Bowl,Tulsa (Favorite),10.0,8,Tulsa (Favorite),13
+536,536,Maggie R,Myrtle Beach Bowl,Tulsa (Favorite),14.0,8,Tulsa (Favorite),13
+537,537,Fred K,Myrtle Beach Bowl,Tulsa (Favorite),18.0,6,Tulsa (Favorite),13
+538,538,Jane S,Myrtle Beach Bowl,Tulsa (Favorite),10.0,8,Tulsa (Favorite),13
+539,539,Tiny Tim ,Myrtle Beach Bowl,Tulsa (Favorite),9.0,6,Tulsa (Favorite),13
+540,540,Carl J,Famous Idaho Bowl,Wyoming (Favorite),3.0,5,Wyoming (Favorite),14
+541,541,Todd G,Famous Idaho Bowl,Wyoming (Favorite),11.0,8,Wyoming (Favorite),14
+542,542,Jack S,Famous Idaho Bowl,Kent State,4.0,0,Wyoming (Favorite),14
+543,543,Ethan H,Famous Idaho Bowl,Wyoming (Favorite),7.0,6,Wyoming (Favorite),14
+544,544,Wisky,Famous Idaho Bowl,Kent State,7.0,0,Wyoming (Favorite),14
+545,545,Colm,Famous Idaho Bowl,Kent State,7.0,0,Wyoming (Favorite),14
+546,546,Stanley,Famous Idaho Bowl,Wyoming (Favorite),6.0,5,Wyoming (Favorite),14
+547,547,Craig Boogie,Famous Idaho Bowl,Kent State,4.0,0,Wyoming (Favorite),14
+548,548,Tristan,Famous Idaho Bowl,Wyoming (Favorite),6.0,5,Wyoming (Favorite),14
+549,549,Pete F (expert),Famous Idaho Bowl,Wyoming (Favorite),4.0,5,Wyoming (Favorite),14
+550,550,Cole W,Famous Idaho Bowl,Kent State,6.0,0,Wyoming (Favorite),14
+551,551,Monica C,Famous Idaho Bowl,Kent State,1.0,0,Wyoming (Favorite),14
+552,552,Striker,Famous Idaho Bowl,Kent State,59.0,0,Wyoming (Favorite),14
+553,553,Cab,Famous Idaho Bowl,Wyoming (Favorite),8.0,6,Wyoming (Favorite),14
+554,554,Peter C,Famous Idaho Bowl,Kent State,3.0,0,Wyoming (Favorite),14
+555,555,Aiden M,Famous Idaho Bowl,Kent State,7.0,0,Wyoming (Favorite),14
+556,556,Kendall,Famous Idaho Bowl,Wyoming (Favorite),3.0,5,Wyoming (Favorite),14
+557,557,Brendan W,Famous Idaho Bowl,Kent State,7.0,0,Wyoming (Favorite),14
+558,558,Emerson O,Famous Idaho Bowl,Wyoming (Favorite),7.0,6,Wyoming (Favorite),14
+559,559,Spencer,Famous Idaho Bowl,Wyoming (Favorite),7.0,6,Wyoming (Favorite),14
+560,560,Dirk P,Famous Idaho Bowl,Wyoming (Favorite),3.0,5,Wyoming (Favorite),14
+561,561,John W,Famous Idaho Bowl,Wyoming (Favorite),7.0,6,Wyoming (Favorite),14
+562,562,Kevin J,Famous Idaho Bowl,Kent State,6.0,0,Wyoming (Favorite),14
+563,563,Dax,Famous Idaho Bowl,Wyoming (Favorite),3.0,5,Wyoming (Favorite),14
+564,564,Renee B,Famous Idaho Bowl,Wyoming (Favorite),6.0,5,Wyoming (Favorite),14
+565,565,Suz B,Famous Idaho Bowl,Kent State,10.0,0,Wyoming (Favorite),14
+566,566,Tia B,Famous Idaho Bowl,Wyoming (Favorite),14.0,10,Wyoming (Favorite),14
+567,567,David P,Famous Idaho Bowl,Wyoming (Favorite),7.0,6,Wyoming (Favorite),14
+568,568,Kelsey P,Famous Idaho Bowl,Wyoming (Favorite),4.0,5,Wyoming (Favorite),14
+569,569,Zinn,Famous Idaho Bowl,Wyoming (Favorite),13.0,8,Wyoming (Favorite),14
+570,570,Larry W,Famous Idaho Bowl,Wyoming (Favorite),10.0,6,Wyoming (Favorite),14
+571,571,Joe Canada,Famous Idaho Bowl,Wyoming (Favorite),8.0,6,Wyoming (Favorite),14
+572,572,Paul R,Famous Idaho Bowl,Kent State,4.0,0,Wyoming (Favorite),14
+573,573,Roitman,Famous Idaho Bowl,Kent State,4.0,0,Wyoming (Favorite),14
+574,574,Sandra S,Famous Idaho Bowl,Kent State,1.0,0,Wyoming (Favorite),14
+575,575,Paul P,Famous Idaho Bowl,Wyoming (Favorite),6.0,5,Wyoming (Favorite),14
+576,576,Grapefruit,Famous Idaho Bowl,Wyoming (Favorite),3.0,5,Wyoming (Favorite),14
+577,577,Thomas N,Famous Idaho Bowl,Kent State,4.0,0,Wyoming (Favorite),14
+578,578,No Mercy,Famous Idaho Bowl,Wyoming (Favorite),3.0,5,Wyoming (Favorite),14
+579,579,Cora P,Famous Idaho Bowl,Wyoming (Favorite),10.0,6,Wyoming (Favorite),14
+580,580,Courtney K,Famous Idaho Bowl,Kent State,3.0,0,Wyoming (Favorite),14
+581,581,Josh T,Famous Idaho Bowl,Kent State,3.0,0,Wyoming (Favorite),14
+582,582,Eric K,Famous Idaho Bowl,Kent State,4.0,0,Wyoming (Favorite),14
+583,583,Mike M,Famous Idaho Bowl,Wyoming (Favorite),10.0,6,Wyoming (Favorite),14
+584,584,The Captain,Famous Idaho Bowl,Wyoming (Favorite),7.0,6,Wyoming (Favorite),14
+585,585,Dank,Famous Idaho Bowl,Kent State,12.0,0,Wyoming (Favorite),14
+586,586,Alvin T,Famous Idaho Bowl,Wyoming (Favorite),15.0,8,Wyoming (Favorite),14
+587,587,Ty K,Famous Idaho Bowl,Kent State,5.0,0,Wyoming (Favorite),14
+588,588,Binky,Famous Idaho Bowl,Wyoming (Favorite),7.0,6,Wyoming (Favorite),14
+589,589,Connie K,Famous Idaho Bowl,Wyoming (Favorite),6.0,5,Wyoming (Favorite),14
+590,590,Maggie R,Famous Idaho Bowl,Wyoming (Favorite),6.0,5,Wyoming (Favorite),14
+591,591,Fred K,Famous Idaho Bowl,Wyoming (Favorite),10.0,6,Wyoming (Favorite),14
+592,592,Jane S,Famous Idaho Bowl,Wyoming (Favorite),3.0,5,Wyoming (Favorite),14
+593,593,Tiny Tim ,Famous Idaho Bowl,Kent State,15.0,0,Wyoming (Favorite),14
+594,594,Carl J,Tropical Smoothie Bowl,UTSA (Favorite),5.0,0,San Diego State,14
+595,595,Todd G,Tropical Smoothie Bowl,San Diego State,8.0,6,San Diego State,14
+596,596,Jack S,Tropical Smoothie Bowl,UTSA (Favorite),24.0,0,San Diego State,14
+597,597,Ethan H,Tropical Smoothie Bowl,UTSA (Favorite),17.0,0,San Diego State,14
+598,598,Wisky,Tropical Smoothie Bowl,UTSA (Favorite),14.0,0,San Diego State,14
+599,599,Colm,Tropical Smoothie Bowl,San Diego State,8.0,6,San Diego State,14
+600,600,Stanley,Tropical Smoothie Bowl,San Diego State,9.0,6,San Diego State,14
+601,601,Craig Boogie,Tropical Smoothie Bowl,UTSA (Favorite),3.0,0,San Diego State,14
+602,602,Tristan,Tropical Smoothie Bowl,San Diego State,8.0,6,San Diego State,14
+603,603,Pete F (expert),Tropical Smoothie Bowl,San Diego State,6.0,5,San Diego State,14
+604,604,Cole W,Tropical Smoothie Bowl,San Diego State,3.0,5,San Diego State,14
+605,605,Monica C,Tropical Smoothie Bowl,San Diego State,3.0,5,San Diego State,14
+606,606,Striker,Tropical Smoothie Bowl,UTSA (Favorite),55.0,0,San Diego State,14
+607,607,Cab,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+608,608,Peter C,Tropical Smoothie Bowl,San Diego State,3.0,5,San Diego State,14
+609,609,Aiden M,Tropical Smoothie Bowl,UTSA (Favorite),2.0,0,San Diego State,14
+610,610,Kendall,Tropical Smoothie Bowl,San Diego State,8.0,6,San Diego State,14
+611,611,Brendan W,Tropical Smoothie Bowl,San Diego State,14.0,10,San Diego State,14
+612,612,Emerson O,Tropical Smoothie Bowl,San Diego State,6.0,5,San Diego State,14
+613,613,Spencer,Tropical Smoothie Bowl,UTSA (Favorite),17.0,0,San Diego State,14
+614,614,Dirk P,Tropical Smoothie Bowl,UTSA (Favorite),3.0,0,San Diego State,14
+615,615,John W,Tropical Smoothie Bowl,UTSA (Favorite),8.0,0,San Diego State,14
+616,616,Kevin J,Tropical Smoothie Bowl,San Diego State,4.0,5,San Diego State,14
+617,617,Dax,Tropical Smoothie Bowl,San Diego State,3.0,5,San Diego State,14
+618,618,Renee B,Tropical Smoothie Bowl,San Diego State,1.0,5,San Diego State,14
+619,619,Suz B,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+620,620,Tia B,Tropical Smoothie Bowl,San Diego State,14.0,10,San Diego State,14
+621,621,David P,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+622,622,Kelsey P,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+623,623,Zinn,Tropical Smoothie Bowl,San Diego State,3.0,5,San Diego State,14
+624,624,Larry W,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+625,625,Joe Canada,Tropical Smoothie Bowl,UTSA (Favorite),4.0,0,San Diego State,14
+626,626,Paul R,Tropical Smoothie Bowl,UTSA (Favorite),6.0,0,San Diego State,14
+627,627,Roitman,Tropical Smoothie Bowl,San Diego State,4.0,5,San Diego State,14
+628,628,Sandra S,Tropical Smoothie Bowl,San Diego State,4.0,5,San Diego State,14
+629,629,Paul P,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+630,630,Grapefruit,Tropical Smoothie Bowl,UTSA (Favorite),3.0,0,San Diego State,14
+631,631,Thomas N,Tropical Smoothie Bowl,San Diego State,10.0,6,San Diego State,14
+632,632,No Mercy,Tropical Smoothie Bowl,UTSA (Favorite),3.0,0,San Diego State,14
+633,633,Cora P,Tropical Smoothie Bowl,UTSA (Favorite),6.0,0,San Diego State,14
+634,634,Courtney K,Tropical Smoothie Bowl,San Diego State,3.0,5,San Diego State,14
+635,635,Josh T,Tropical Smoothie Bowl,San Diego State,4.0,5,San Diego State,14
+636,636,Eric K,Tropical Smoothie Bowl,UTSA (Favorite),10.0,0,San Diego State,14
+637,637,Mike M,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+638,638,The Captain,Tropical Smoothie Bowl,UTSA (Favorite),6.0,0,San Diego State,14
+639,639,Dank,Tropical Smoothie Bowl,UTSA (Favorite),16.0,0,San Diego State,14
+640,640,Alvin T,Tropical Smoothie Bowl,San Diego State,19.0,6,San Diego State,14
+641,641,Ty K,Tropical Smoothie Bowl,San Diego State,4.0,5,San Diego State,14
+642,642,Binky,Tropical Smoothie Bowl,San Diego State,5.0,5,San Diego State,14
+643,643,Connie K,Tropical Smoothie Bowl,San Diego State,6.0,5,San Diego State,14
+644,644,Maggie R,Tropical Smoothie Bowl,San Diego State,7.0,6,San Diego State,14
+645,645,Fred K,Tropical Smoothie Bowl,UTSA (Favorite),7.0,0,San Diego State,14
+646,646,Jane S,Tropical Smoothie Bowl,UTSA (Favorite),2.0,0,San Diego State,14
+647,647,Tiny Tim ,Tropical Smoothie Bowl,UTSA (Favorite),12.0,0,San Diego State,14
+648,648,Carl J,Armed Forces Bowl,Army (Favorite),7.0,6,Army (Favorite),2
+649,649,Todd G,Armed Forces Bowl,Missouri,5.0,0,Army (Favorite),2
+650,650,Jack S,Armed Forces Bowl,Missouri,4.0,0,Army (Favorite),2
+651,651,Ethan H,Armed Forces Bowl,Army (Favorite),3.0,8,Army (Favorite),2
+652,652,Wisky,Armed Forces Bowl,Army (Favorite),15.0,5,Army (Favorite),2
+653,653,Colm,Armed Forces Bowl,Army (Favorite),2.0,10,Army (Favorite),2
+654,654,Stanley,Armed Forces Bowl,Missouri,12.0,0,Army (Favorite),2
+655,655,Craig Boogie,Armed Forces Bowl,Missouri,12.0,0,Army (Favorite),2
+656,656,Tristan,Armed Forces Bowl,Missouri,6.0,0,Army (Favorite),2
+657,657,Pete F (expert),Armed Forces Bowl,Army (Favorite),2.0,10,Army (Favorite),2
+658,658,Cole W,Armed Forces Bowl,Missouri,7.0,0,Army (Favorite),2
+659,659,Monica C,Armed Forces Bowl,Missouri,7.0,0,Army (Favorite),2
+660,660,Striker,Armed Forces Bowl,Missouri,48.0,0,Army (Favorite),2
+661,661,Cab,Armed Forces Bowl,Missouri,6.0,0,Army (Favorite),2
+662,662,Peter C,Armed Forces Bowl,Missouri,7.0,0,Army (Favorite),2
+663,663,Aiden M,Armed Forces Bowl,Missouri,2.0,0,Army (Favorite),2
+664,664,Kendall,Armed Forces Bowl,Missouri,3.0,0,Army (Favorite),2
+665,665,Brendan W,Armed Forces Bowl,Army (Favorite),11.0,5,Army (Favorite),2
+666,666,Emerson O,Armed Forces Bowl,Missouri,6.0,0,Army (Favorite),2
+667,667,Spencer,Armed Forces Bowl,Missouri,14.0,0,Army (Favorite),2
+668,668,Dirk P,Armed Forces Bowl,Army (Favorite),3.0,8,Army (Favorite),2
+669,669,John W,Armed Forces Bowl,Missouri,7.0,0,Army (Favorite),2
+670,670,Kevin J,Armed Forces Bowl,Missouri,14.0,0,Army (Favorite),2
+671,671,Dax,Armed Forces Bowl,Army (Favorite),21.0,5,Army (Favorite),2
+672,672,Renee B,Armed Forces Bowl,Army (Favorite),6.0,6,Army (Favorite),2
+673,673,Suz B,Armed Forces Bowl,Army (Favorite),14.0,5,Army (Favorite),2
+674,674,Tia B,Armed Forces Bowl,Army (Favorite),10.0,5,Army (Favorite),2
+675,675,David P,Armed Forces Bowl,Army (Favorite),6.0,6,Army (Favorite),2
+676,676,Kelsey P,Armed Forces Bowl,Army (Favorite),4.0,8,Army (Favorite),2
+677,677,Zinn,Armed Forces Bowl,Army (Favorite),6.0,6,Army (Favorite),2
+678,678,Larry W,Armed Forces Bowl,Missouri,7.0,0,Army (Favorite),2
+679,679,Joe Canada,Armed Forces Bowl,Army (Favorite),15.0,5,Army (Favorite),2
+680,680,Paul R,Armed Forces Bowl,Missouri,3.0,0,Army (Favorite),2
+681,681,Roitman,Armed Forces Bowl,Missouri,44.0,0,Army (Favorite),2
+682,682,Sandra S,Armed Forces Bowl,Army (Favorite),6.0,6,Army (Favorite),2
+683,683,Paul P,Armed Forces Bowl,Army (Favorite),3.0,8,Army (Favorite),2
+684,684,Grapefruit,Armed Forces Bowl,Missouri,3.0,0,Army (Favorite),2
+685,685,Thomas N,Armed Forces Bowl,Army (Favorite),5.0,8,Army (Favorite),2
+686,686,No Mercy,Armed Forces Bowl,Army (Favorite),3.0,8,Army (Favorite),2
+687,687,Cora P,Armed Forces Bowl,Army (Favorite),10.0,5,Army (Favorite),2
+688,688,Courtney K,Armed Forces Bowl,Army (Favorite),6.0,6,Army (Favorite),2
+689,689,Josh T,Armed Forces Bowl,Army (Favorite),4.0,8,Army (Favorite),2
+690,690,Eric K,Armed Forces Bowl,Army (Favorite),4.0,8,Army (Favorite),2
+691,691,Mike M,Armed Forces Bowl,Army (Favorite),3.0,8,Army (Favorite),2
+692,692,The Captain,Armed Forces Bowl,Army (Favorite),3.0,8,Army (Favorite),2
+693,693,Dank,Armed Forces Bowl,Army (Favorite),9.0,6,Army (Favorite),2
+694,694,Alvin T,Armed Forces Bowl,Missouri,12.0,0,Army (Favorite),2
+695,695,Ty K,Armed Forces Bowl,Army (Favorite),7.0,6,Army (Favorite),2
+696,696,Binky,Armed Forces Bowl,Missouri,12.0,0,Army (Favorite),2
+697,697,Connie K,Armed Forces Bowl,Missouri,6.0,0,Army (Favorite),2
+698,698,Maggie R,Armed Forces Bowl,Missouri,7.0,0,Army (Favorite),2
+699,699,Fred K,Armed Forces Bowl,Army (Favorite),3.0,8,Army (Favorite),2
+700,700,Jane S,Armed Forces Bowl,Army (Favorite),4.0,8,Army (Favorite),2
+701,701,Tiny Tim ,Armed Forces Bowl,Missouri,8.0,0,Army (Favorite),2
+702,702,Carl J,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+703,703,Todd G,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+704,704,Jack S,Frisco Classic Bowl,North Texas,4.0,0,Miami (Ohio) (Favorite),13
+705,705,Ethan H,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+706,706,Wisky,Frisco Classic Bowl,North Texas,7.0,0,Miami (Ohio) (Favorite),13
+707,707,Colm,Frisco Classic Bowl,North Texas,7.0,0,Miami (Ohio) (Favorite),13
+708,708,Stanley,Frisco Classic Bowl,Miami (Ohio) (Favorite),6.0,6,Miami (Ohio) (Favorite),13
+709,709,Craig Boogie,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+710,710,Tristan,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+711,711,Pete F (expert),Frisco Classic Bowl,Miami (Ohio) (Favorite),3.0,5,Miami (Ohio) (Favorite),13
+712,712,Cole W,Frisco Classic Bowl,Miami (Ohio) (Favorite),4.0,5,Miami (Ohio) (Favorite),13
+713,713,Monica C,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+714,714,Striker,Frisco Classic Bowl,North Texas,69.0,0,Miami (Ohio) (Favorite),13
+715,715,Cab,Frisco Classic Bowl,North Texas,9.0,0,Miami (Ohio) (Favorite),13
+716,716,Peter C,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+717,717,Aiden M,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+718,718,Kendall,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+719,719,Brendan W,Frisco Classic Bowl,North Texas,10.0,0,Miami (Ohio) (Favorite),13
+720,720,Emerson O,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+721,721,Spencer,Frisco Classic Bowl,North Texas,10.0,0,Miami (Ohio) (Favorite),13
+722,722,Dirk P,Frisco Classic Bowl,Miami (Ohio) (Favorite),6.0,6,Miami (Ohio) (Favorite),13
+723,723,John W,Frisco Classic Bowl,North Texas,6.0,0,Miami (Ohio) (Favorite),13
+724,724,Kevin J,Frisco Classic Bowl,Miami (Ohio) (Favorite),13.0,10,Miami (Ohio) (Favorite),13
+725,725,Dax,Frisco Classic Bowl,North Texas,10.0,0,Miami (Ohio) (Favorite),13
+726,726,Renee B,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+727,727,Suz B,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+728,728,Tia B,Frisco Classic Bowl,Miami (Ohio) (Favorite),14.0,8,Miami (Ohio) (Favorite),13
+729,729,David P,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+730,730,Kelsey P,Frisco Classic Bowl,Miami (Ohio) (Favorite),4.0,5,Miami (Ohio) (Favorite),13
+731,731,Zinn,Frisco Classic Bowl,North Texas,9.0,0,Miami (Ohio) (Favorite),13
+732,732,Larry W,Frisco Classic Bowl,North Texas,14.0,0,Miami (Ohio) (Favorite),13
+733,733,Joe Canada,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+734,734,Paul R,Frisco Classic Bowl,North Texas,9.0,0,Miami (Ohio) (Favorite),13
+735,735,Roitman,Frisco Classic Bowl,Miami (Ohio) (Favorite),4.0,5,Miami (Ohio) (Favorite),13
+736,736,Sandra S,Frisco Classic Bowl,North Texas,6.0,0,Miami (Ohio) (Favorite),13
+737,737,Paul P,Frisco Classic Bowl,North Texas,6.0,0,Miami (Ohio) (Favorite),13
+738,738,Grapefruit,Frisco Classic Bowl,Miami (Ohio) (Favorite),3.0,5,Miami (Ohio) (Favorite),13
+739,739,Thomas N,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+740,740,No Mercy,Frisco Classic Bowl,Miami (Ohio) (Favorite),3.0,5,Miami (Ohio) (Favorite),13
+741,741,Cora P,Frisco Classic Bowl,North Texas,6.0,0,Miami (Ohio) (Favorite),13
+742,742,Courtney K,Frisco Classic Bowl,Miami (Ohio) (Favorite),6.0,6,Miami (Ohio) (Favorite),13
+743,743,Josh T,Frisco Classic Bowl,North Texas,2.0,0,Miami (Ohio) (Favorite),13
+744,744,Eric K,Frisco Classic Bowl,North Texas,4.0,0,Miami (Ohio) (Favorite),13
+745,745,Mike M,Frisco Classic Bowl,Miami (Ohio) (Favorite),10.0,8,Miami (Ohio) (Favorite),13
+746,746,The Captain,Frisco Classic Bowl,Miami (Ohio) (Favorite),2.0,5,Miami (Ohio) (Favorite),13
+747,747,Dank,Frisco Classic Bowl,Miami (Ohio) (Favorite),12.0,8,Miami (Ohio) (Favorite),13
+748,748,Alvin T,Frisco Classic Bowl,Miami (Ohio) (Favorite),17.0,6,Miami (Ohio) (Favorite),13
+749,749,Ty K,Frisco Classic Bowl,North Texas,3.0,0,Miami (Ohio) (Favorite),13
+750,750,Binky,Frisco Classic Bowl,Miami (Ohio) (Favorite),18.0,6,Miami (Ohio) (Favorite),13
+751,751,Connie K,Frisco Classic Bowl,Miami (Ohio) (Favorite),7.0,6,Miami (Ohio) (Favorite),13
+752,752,Maggie R,Frisco Classic Bowl,North Texas,10.0,0,Miami (Ohio) (Favorite),13
+753,753,Fred K,Frisco Classic Bowl,Miami (Ohio) (Favorite),6.0,6,Miami (Ohio) (Favorite),13
+754,754,Jane S,Frisco Classic Bowl,Miami (Ohio) (Favorite),3.0,5,Miami (Ohio) (Favorite),13
+755,755,Tiny Tim ,Frisco Classic Bowl,Miami (Ohio) (Favorite),10.0,8,Miami (Ohio) (Favorite),13
+756,756,Carl J,Gasparilla Bowl,Florida (Favorite),10.0,0,Central Florida,12
+757,757,Todd G,Gasparilla Bowl,Central Florida,5.0,6,Central Florida,12
+758,758,Jack S,Gasparilla Bowl,Florida (Favorite),18.0,0,Central Florida,12
+759,759,Ethan H,Gasparilla Bowl,Florida (Favorite),20.0,0,Central Florida,12
+760,760,Wisky,Gasparilla Bowl,Central Florida,7.0,6,Central Florida,12
+761,761,Colm,Gasparilla Bowl,Florida (Favorite),17.0,0,Central Florida,12
+762,762,Stanley,Gasparilla Bowl,Central Florida,10.0,8,Central Florida,12
+763,763,Craig Boogie,Gasparilla Bowl,Florida (Favorite),3.0,0,Central Florida,12
+764,764,Tristan,Gasparilla Bowl,Florida (Favorite),10.0,0,Central Florida,12
+765,765,Pete F (expert),Gasparilla Bowl,Florida (Favorite),11.0,0,Central Florida,12
+766,766,Cole W,Gasparilla Bowl,Central Florida,3.0,5,Central Florida,12
+767,767,Monica C,Gasparilla Bowl,Central Florida,3.0,5,Central Florida,12
+768,768,Striker,Gasparilla Bowl,Florida (Favorite),47.0,0,Central Florida,12
+769,769,Cab,Gasparilla Bowl,Florida (Favorite),12.0,0,Central Florida,12
+770,770,Peter C,Gasparilla Bowl,Florida (Favorite),14.0,0,Central Florida,12
+771,771,Aiden M,Gasparilla Bowl,Central Florida,4.0,5,Central Florida,12
+772,772,Kendall,Gasparilla Bowl,Central Florida,3.0,5,Central Florida,12
+773,773,Brendan W,Gasparilla Bowl,Central Florida,7.0,6,Central Florida,12
+774,774,Emerson O,Gasparilla Bowl,Central Florida,1.0,5,Central Florida,12
+775,775,Spencer,Gasparilla Bowl,Florida (Favorite),4.0,0,Central Florida,12
+776,776,Dirk P,Gasparilla Bowl,Florida (Favorite),6.0,0,Central Florida,12
+777,777,John W,Gasparilla Bowl,Central Florida,6.0,6,Central Florida,12
+778,778,Kevin J,Gasparilla Bowl,Central Florida,10.0,8,Central Florida,12
+779,779,Dax,Gasparilla Bowl,Florida (Favorite),14.0,0,Central Florida,12
+780,780,Renee B,Gasparilla Bowl,Florida (Favorite),7.0,0,Central Florida,12
+781,781,Suz B,Gasparilla Bowl,Florida (Favorite),21.0,0,Central Florida,12
+782,782,Tia B,Gasparilla Bowl,Florida (Favorite),21.0,0,Central Florida,12
+783,783,David P,Gasparilla Bowl,Florida (Favorite),10.0,0,Central Florida,12
+784,784,Kelsey P,Gasparilla Bowl,Florida (Favorite),7.0,0,Central Florida,12
+785,785,Zinn,Gasparilla Bowl,Central Florida,8.0,6,Central Florida,12
+786,786,Larry W,Gasparilla Bowl,Central Florida,7.0,6,Central Florida,12
+787,787,Joe Canada,Gasparilla Bowl,Central Florida,10.0,8,Central Florida,12
+788,788,Paul R,Gasparilla Bowl,Florida (Favorite),9.0,0,Central Florida,12
+789,789,Roitman,Gasparilla Bowl,Central Florida,4.0,5,Central Florida,12
+790,790,Sandra S,Gasparilla Bowl,Florida (Favorite),14.0,0,Central Florida,12
+791,791,Paul P,Gasparilla Bowl,Central Florida,10.0,8,Central Florida,12
+792,792,Grapefruit,Gasparilla Bowl,Florida (Favorite),10.0,0,Central Florida,12
+793,793,Thomas N,Gasparilla Bowl,Central Florida,3.0,5,Central Florida,12
+794,794,No Mercy,Gasparilla Bowl,Florida (Favorite),6.0,0,Central Florida,12
+795,795,Cora P,Gasparilla Bowl,Central Florida,3.0,5,Central Florida,12
+796,796,Courtney K,Gasparilla Bowl,Central Florida,6.0,6,Central Florida,12
+797,797,Josh T,Gasparilla Bowl,Central Florida,7.0,6,Central Florida,12
+798,798,Eric K,Gasparilla Bowl,Florida (Favorite),10.0,0,Central Florida,12
+799,799,Mike M,Gasparilla Bowl,Central Florida,3.0,5,Central Florida,12
+800,800,The Captain,Gasparilla Bowl,Florida (Favorite),14.0,0,Central Florida,12
+801,801,Dank,Gasparilla Bowl,Florida (Favorite),12.0,0,Central Florida,12
+802,802,Alvin T,Gasparilla Bowl,Florida (Favorite),16.0,0,Central Florida,12
+803,803,Ty K,Gasparilla Bowl,Florida (Favorite),7.0,0,Central Florida,12
+804,804,Binky,Gasparilla Bowl,Central Florida,7.0,6,Central Florida,12
+805,805,Connie K,Gasparilla Bowl,Central Florida,14.0,8,Central Florida,12
+806,806,Maggie R,Gasparilla Bowl,Central Florida,3.0,5,Central Florida,12
+807,807,Fred K,Gasparilla Bowl,Florida (Favorite),14.0,0,Central Florida,12
+808,808,Jane S,Gasparilla Bowl,Florida (Favorite),3.0,0,Central Florida,12
+809,809,Tiny Tim ,Gasparilla Bowl,Florida (Favorite),7.0,0,Central Florida,12
+810,864,Carl J,Camellia Bowl,Georgia State (Favorite),14.0,5,Georgia State (Favorite),31
+811,865,Todd G,Camellia Bowl,Georgia State (Favorite),17.0,5,Georgia State (Favorite),31
+812,866,Jack S,Camellia Bowl,Georgia State (Favorite),14.0,5,Georgia State (Favorite),31
+813,867,Ethan H,Camellia Bowl,Ball State,3.0,0,Georgia State (Favorite),31
+814,868,Wisky,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+815,869,Colm,Camellia Bowl,Ball State,7.0,0,Georgia State (Favorite),31
+816,870,Stanley,Camellia Bowl,Georgia State (Favorite),13.0,5,Georgia State (Favorite),31
+817,871,Craig Boogie,Camellia Bowl,Ball State,6.0,0,Georgia State (Favorite),31
+818,872,Tristan,Camellia Bowl,Georgia State (Favorite),5.0,5,Georgia State (Favorite),31
+819,873,Pete F (expert),Camellia Bowl,Georgia State (Favorite),6.0,5,Georgia State (Favorite),31
+820,874,Cole W,Camellia Bowl,Georgia State (Favorite),10.0,5,Georgia State (Favorite),31
+821,875,Monica C,Camellia Bowl,Georgia State (Favorite),3.0,5,Georgia State (Favorite),31
+822,876,Striker,Camellia Bowl,Georgia State (Favorite),53.0,5,Georgia State (Favorite),31
+823,877,Cab,Camellia Bowl,Georgia State (Favorite),11.0,5,Georgia State (Favorite),31
+824,878,Peter C,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+825,879,Aiden M,Camellia Bowl,Georgia State (Favorite),8.0,5,Georgia State (Favorite),31
+826,880,Kendall,Camellia Bowl,Ball State,10.0,0,Georgia State (Favorite),31
+827,881,Brendan W,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+828,882,Emerson O,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+829,883,Spencer,Camellia Bowl,Georgia State (Favorite),10.0,5,Georgia State (Favorite),31
+830,884,Dirk P,Camellia Bowl,Georgia State (Favorite),3.0,5,Georgia State (Favorite),31
+831,885,John W,Camellia Bowl,Ball State,6.0,0,Georgia State (Favorite),31
+832,886,Kevin J,Camellia Bowl,Georgia State (Favorite),4.0,5,Georgia State (Favorite),31
+833,887,Dax,Camellia Bowl,Georgia State (Favorite),10.0,5,Georgia State (Favorite),31
+834,888,Renee B,Camellia Bowl,Georgia State (Favorite),6.0,5,Georgia State (Favorite),31
+835,889,Suz B,Camellia Bowl,Ball State,3.0,0,Georgia State (Favorite),31
+836,890,Tia B,Camellia Bowl,Ball State,14.0,0,Georgia State (Favorite),31
+837,891,David P,Camellia Bowl,Georgia State (Favorite),13.0,5,Georgia State (Favorite),31
+838,892,Kelsey P,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+839,893,Zinn,Camellia Bowl,Ball State,1.0,0,Georgia State (Favorite),31
+840,894,Larry W,Camellia Bowl,Georgia State (Favorite),10.0,5,Georgia State (Favorite),31
+841,895,Joe Canada,Camellia Bowl,Ball State,3.0,0,Georgia State (Favorite),31
+842,896,Paul R,Camellia Bowl,Ball State,6.0,0,Georgia State (Favorite),31
+843,897,Roitman,Camellia Bowl,Ball State,4.0,0,Georgia State (Favorite),31
+844,898,Sandra S,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+845,899,Paul P,Camellia Bowl,Georgia State (Favorite),3.0,5,Georgia State (Favorite),31
+846,900,Grapefruit,Camellia Bowl,Georgia State (Favorite),5.0,5,Georgia State (Favorite),31
+847,901,Thomas N,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+848,902,No Mercy,Camellia Bowl,Georgia State (Favorite),4.0,5,Georgia State (Favorite),31
+849,903,Cora P,Camellia Bowl,Georgia State (Favorite),14.0,5,Georgia State (Favorite),31
+850,904,Courtney K,Camellia Bowl,Ball State,3.0,0,Georgia State (Favorite),31
+851,905,Josh T,Camellia Bowl,Georgia State (Favorite),4.0,5,Georgia State (Favorite),31
+852,906,Eric K,Camellia Bowl,Georgia State (Favorite),4.0,5,Georgia State (Favorite),31
+853,907,Mike M,Camellia Bowl,Georgia State (Favorite),3.0,5,Georgia State (Favorite),31
+854,908,The Captain,Camellia Bowl,Georgia State (Favorite),11.0,5,Georgia State (Favorite),31
+855,909,Dank,Camellia Bowl,Ball State,2.0,0,Georgia State (Favorite),31
+856,910,Alvin T,Camellia Bowl,Ball State,10.0,0,Georgia State (Favorite),31
+857,911,Ty K,Camellia Bowl,Georgia State (Favorite),4.0,5,Georgia State (Favorite),31
+858,912,Binky,Camellia Bowl,Ball State,3.0,0,Georgia State (Favorite),31
+859,913,Connie K,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+860,914,Maggie R,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+861,915,Fred K,Camellia Bowl,Georgia State (Favorite),6.0,5,Georgia State (Favorite),31
+862,916,Jane S,Camellia Bowl,Georgia State (Favorite),7.0,5,Georgia State (Favorite),31
+863,917,Tiny Tim ,Camellia Bowl,Ball State,13.0,0,Georgia State (Favorite),31
+864,918,Carl J,Quick Lane Bowl,Nevada (Favorite),21.0,0,Western Michigan,28
+865,919,Todd G,Quick Lane Bowl,Western Michigan,5.0,5,Western Michigan,28
+866,920,Jack S,Quick Lane Bowl,Western Michigan,9.0,5,Western Michigan,28
+867,921,Ethan H,Quick Lane Bowl,Nevada (Favorite),9.0,0,Western Michigan,28
+868,922,Wisky,Quick Lane Bowl,Nevada (Favorite),3.0,0,Western Michigan,28
+869,923,Colm,Quick Lane Bowl,Western Michigan,4.0,5,Western Michigan,28
+870,924,Stanley,Quick Lane Bowl,Western Michigan,10.0,5,Western Michigan,28
+871,925,Craig Boogie,Quick Lane Bowl,Nevada (Favorite),15.0,0,Western Michigan,28
+872,926,Tristan,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+873,927,Pete F (expert),Quick Lane Bowl,Western Michigan,4.0,5,Western Michigan,28
+874,928,Cole W,Quick Lane Bowl,Western Michigan,6.0,5,Western Michigan,28
+875,929,Monica C,Quick Lane Bowl,Western Michigan,1.0,5,Western Michigan,28
+876,930,Striker,Quick Lane Bowl,Nevada (Favorite),64.0,0,Western Michigan,28
+877,931,Cab,Quick Lane Bowl,Nevada (Favorite),10.0,0,Western Michigan,28
+878,932,Peter C,Quick Lane Bowl,Western Michigan,14.0,5,Western Michigan,28
+879,933,Aiden M,Quick Lane Bowl,Western Michigan,8.0,5,Western Michigan,28
+880,934,Kendall,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+881,935,Brendan W,Quick Lane Bowl,Western Michigan,10.0,5,Western Michigan,28
+882,936,Emerson O,Quick Lane Bowl,Nevada (Favorite),10.0,0,Western Michigan,28
+883,937,Spencer,Quick Lane Bowl,Western Michigan,11.0,5,Western Michigan,28
+884,938,Dirk P,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+885,939,John W,Quick Lane Bowl,Nevada (Favorite),6.0,0,Western Michigan,28
+886,940,Kevin J,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+887,941,Dax,Quick Lane Bowl,Nevada (Favorite),10.0,0,Western Michigan,28
+888,942,Renee B,Quick Lane Bowl,Western Michigan,3.0,5,Western Michigan,28
+889,943,Suz B,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+890,944,Tia B,Quick Lane Bowl,Nevada (Favorite),10.0,0,Western Michigan,28
+891,945,David P,Quick Lane Bowl,Western Michigan,7.0,5,Western Michigan,28
+892,946,Kelsey P,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+893,947,Zinn,Quick Lane Bowl,Nevada (Favorite),12.0,0,Western Michigan,28
+894,948,Larry W,Quick Lane Bowl,Nevada (Favorite),14.0,0,Western Michigan,28
+895,949,Joe Canada,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+896,950,Paul R,Quick Lane Bowl,Nevada (Favorite),9.0,0,Western Michigan,28
+897,951,Roitman,Quick Lane Bowl,Western Michigan,4.0,5,Western Michigan,28
+898,952,Sandra S,Quick Lane Bowl,Western Michigan,1.0,5,Western Michigan,28
+899,953,Paul P,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+900,954,Grapefruit,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+901,955,Thomas N,Quick Lane Bowl,Western Michigan,5.0,5,Western Michigan,28
+902,956,No Mercy,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+903,957,Cora P,Quick Lane Bowl,Western Michigan,7.0,5,Western Michigan,28
+904,958,Courtney K,Quick Lane Bowl,Nevada (Favorite),6.0,0,Western Michigan,28
+905,959,Josh T,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+906,960,Eric K,Quick Lane Bowl,Western Michigan,4.0,5,Western Michigan,28
+907,961,Mike M,Quick Lane Bowl,Nevada (Favorite),14.0,0,Western Michigan,28
+908,962,The Captain,Quick Lane Bowl,Nevada (Favorite),10.0,0,Western Michigan,28
+909,963,Dank,Quick Lane Bowl,Nevada (Favorite),14.0,0,Western Michigan,28
+910,964,Alvin T,Quick Lane Bowl,Nevada (Favorite),22.0,0,Western Michigan,28
+911,965,Ty K,Quick Lane Bowl,Nevada (Favorite),10.0,0,Western Michigan,28
+912,966,Binky,Quick Lane Bowl,Nevada (Favorite),12.0,0,Western Michigan,28
+913,967,Connie K,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+914,968,Maggie R,Quick Lane Bowl,Nevada (Favorite),3.0,0,Western Michigan,28
+915,969,Fred K,Quick Lane Bowl,Nevada (Favorite),7.0,0,Western Michigan,28
+916,970,Jane S,Quick Lane Bowl,Western Michigan,6.0,5,Western Michigan,28
+917,971,Tiny Tim ,Quick Lane Bowl,Nevada (Favorite),12.0,0,Western Michigan,28
